@@ -1,0 +1,13 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\bin\Debug\UDPNumberServer.exe.config
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\bin\Debug\UDPNumberServer.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\bin\Debug\UDPNumberServer.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\obj\Debug\UDPNumberSender.csprojResolveAssemblyReference.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\obj\Debug\UDPNumberServer.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\obj\Debug\UDPNumberServer.pdb
+C:\Users\Hassan\Desktop\Teknik\UDPNumberSenderReceiver\UDPNumberServer\UDPNumberServer\obj\Debug\UDPNumberSender.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Desktop\Teknik\UDPNumberSenderReceiver\UDPNumberServer\UDPNumberServer\obj\Debug\UDPNumberSender.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\Teknik\UDPNumberSenderReceiver\UDPNumberServer\UDPNumberServer\obj\Debug\UDPNumberServer.exe
+C:\Users\Hassan\Desktop\Teknik\UDPNumberSenderReceiver\UDPNumberServer\UDPNumberServer\obj\Debug\UDPNumberServer.pdb
+C:\Users\Hassan\Desktop\Teknik\UDPNumberSenderReceiver\UDPNumberServer\UDPNumberServer\bin\Debug\UDPNumberServer.exe.config
+C:\Users\Hassan\Desktop\Teknik\UDPNumberSenderReceiver\UDPNumberServer\UDPNumberServer\bin\Debug\UDPNumberServer.exe
+C:\Users\Hassan\Desktop\Teknik\UDPNumberSenderReceiver\UDPNumberServer\UDPNumberServer\bin\Debug\UDPNumberServer.pdb

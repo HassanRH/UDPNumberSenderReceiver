@@ -1,0 +1,6 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\bin\Debug\UDPNumberServer.exe.config
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\bin\Debug\UDPNumberServer.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\bin\Debug\UDPNumberServer.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\obj\Debug\UDPNumberServer.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\obj\Debug\UDPNumberServer.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\UDPNumberServer\UDPNumberServer\obj\Debug\UDPNumberServer.csprojResolveAssemblyReference.cache
